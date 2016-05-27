@@ -1,0 +1,14 @@
+There was a need to create SPAs in a structured manner and this created a need for JavaScript frameworks and libraries that
+provided some structure to single page applications.
+Currently there are quite a few Open Source JavaScript frameworks available that help us solve the problem of spaghetti code. 
+These frameworks let us design our applications in a structured manner.
+Backbone uses MV* framework.
+
+Model :
+When we talk about any MV* pattern, model is undoubtedly the most important part of the architecture/application. 
+Its the model that contains all the application data. Along with keeping the data the model class performs various set of 
+actions on the data. 
+Actions like possibility to validate the data, possibility to persist the data, defining access to various parts of data 
+contained in the model (access control).
+
+
